@@ -1,0 +1,9 @@
+
+SMTP and File Transfer Protocol (FTP) have higher priority for firewalls due to their critical role in email communication and file transfer operations, respectively.
+
+Firewalls prioritize SMTP and FTP because they're commonly used for sending emails and transferring files securely over networks, ensuring smooth communication and data sharing.
+
+
+
+
+
